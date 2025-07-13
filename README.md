@@ -79,7 +79,7 @@ now, it is just enhanced with LangChain's Agentic AI capabilities.
   
 ### Output
 
-https://github.com/user-attachments/assets/1845ca9c-aab6-4492-a652-a4e7d3769834
+https://github.com/user-attachments/assets/e9abca4d-914e-4a97-9055-b6f2a39f2ce0
 
 ### Conclusion
 
