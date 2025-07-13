@@ -6,8 +6,8 @@ now, it is just enhanced with LangChain's Agentic AI capabilities.
 
 ### Main Features
 
-1. Legal Document retrieval
-2. Conversational LLM capabilities
+1. **Legal Document retrieval**
+2. **Conversational LLM capabilities**
 
 ### Technologies Used
 
