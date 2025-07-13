@@ -63,12 +63,13 @@ now, it is just enhanced with LangChain's Agentic AI capabilities.
    
     python Embeddings.py
 
-   ![image (10)](https://github.com/user-attachments/assets/3432fd47-054c-48fb-8f34-038025af0d41)
+   ![image (6)](https://github.com/user-attachments/assets/b0e12939-fdaf-48c7-afc0-c02f20d24870)
 
 8.   Now, we are almost done. Just Run **'streamlit run Frontend.py'** file from Terminal. To activate the UI Interface on your browser.
    
     streamlit run Frontend.py
    
+   ![image (10)](https://github.com/user-attachments/assets/3432fd47-054c-48fb-8f34-038025af0d41)
    
    Ask any legal question like this **"What are the grounds for divorce under the Hindu Marriage Act, 1955 ?"** and get the **'legal Advice'**.
    
